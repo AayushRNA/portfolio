@@ -10,3 +10,5 @@ Smooth scrolling and interactive animations
 Project showcase with live links and GitHub repositories
 
 Contact form integration for easy communication
+# Portfolio
+# Portfolio
