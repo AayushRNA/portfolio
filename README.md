@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 A modern and responsive personal portfolio website built to showcase my skills, projects, and experience in web development. Designed with a clean UI and smooth navigation to reflect my creativity and technical abilities.
 
 Key Features:
